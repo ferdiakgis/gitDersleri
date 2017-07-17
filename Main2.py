@@ -4,4 +4,3 @@ def topla(x, y):
 
 def merhaba():
   print "afsaffa"
-  print "afsaafsafaffa"
